@@ -5,7 +5,7 @@ end
 
 
 def not_safe?(95)
-	
+puts "not_safe":(95)
 end
 	
 

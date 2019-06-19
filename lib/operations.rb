@@ -1,5 +1,5 @@
 def unsafe?(40)
-
+puts "unsafe": (40)
 end
 
 
